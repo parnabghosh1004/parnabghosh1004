@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 - I am an ECE undergrad Student at MNNIT Allahabad.
-- I am learning TypeScript.
-- I am also currentyl increasing my skills on C++.
-- I am also an electronics enthusiast
--->
+- I am currently learning TypeScript.
+- I am also increasing my skills on C++.
+- I am also an electronics enthusiast.
+- Familiar with JavaScript, Python, Opencv, Tensorflow, Verilog HDL.
+<br>
 <hr>
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=parnabghosh1004&show_icons=true&theme=cobalt">
