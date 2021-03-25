@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=parnabghosh1004&layout=compact&langs_count=8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parnabghosh1004&layout=compact&langs_count=10&theme=radical" />
 </a>
-<br>
+<br><br>
+
 ### Contacts     :point_down:
 &nbsp; &nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=parnab0410@gmail.com">
