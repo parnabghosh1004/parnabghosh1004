@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- I am an ECE undergrad Student at MNNIT Allahabad.
-- I am currently learning TypeScript.
+- I am an ECE undergrad student at MNNIT Allahabad.
 - I am also increasing my skills on C++.
 - I am also an electronics enthusiast.
 - Familiar with JavaScript, Python, Opencv, Tensorflow, Verilog HDL.
