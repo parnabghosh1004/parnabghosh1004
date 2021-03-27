@@ -18,4 +18,4 @@ Languages : JavaScript, Python, C++, Java, Verilog HDL.
 <br> 
 <br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parnabghosh1004&theme=radical&custom_title=My Contribution Graph) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parnabghosh1004) 
