@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- I am an ECE undergrad student at MNNIT Allahabad.
-- I am also increasing my skills on C++.
-- I am also an electronics enthusiast.
-- Familiar with JavaScript, Python, Opencv, Tensorflow, Verilog HDL.
+I am Parnab from India, currently studying Electronics engineering at MNNIT Allahabad. 
+
+Skills : Reactjs, React Native, Deep Learning, Computer Vision, Tensorflow.
+
+Languages : JavaScript, Python, C++, Java, Verilog HDL.
+
 <br>
 <hr>
 <br>
