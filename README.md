@@ -16,3 +16,5 @@ Languages : JavaScript, Python, C++, Java, Verilog HDL.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parnabghosh1004&layout=compact&langs_count=10&theme=radical" />
 </a>
 <br>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parnabghosh1004&theme=radical) 
