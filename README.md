@@ -2,7 +2,7 @@
 
 I am Parnab from India, currently an ECE undergrad  at MNNIT Allahabad. 
 
-Skills : Reactjs, React Native, Deep Learning, Computer Vision, Tensorflow.
+Skills : Reactjs, React Native, Deep Learning, Computer Vision, Tensorflow, Arduino, IOT.
 
 Languages : JavaScript, Python, C++, Java, Verilog HDL.
 
@@ -20,7 +20,7 @@ Languages : JavaScript, Python, C++, Java, Verilog HDL.
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parnabghosh1004) 
 
-## 🤝🏻 &nbsp;Connect with Me :
+## &nbsp;Connect with Me :
 
 <p align="center">
 <a href="https://www.linkedin.com/in/parnab-ghosh-57326118b/"><img src="https://img.shields.io/badge/-Parnab%20Ghosh%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
