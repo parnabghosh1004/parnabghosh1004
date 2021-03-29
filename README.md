@@ -2,9 +2,11 @@
 
 I am Parnab from India, currently an ECE undergrad  at MNNIT Allahabad. 
 
-Skills : Reactjs, React Native, Deep Learning, Computer Vision, Tensorflow, Arduino, IOT.
+### Skills : <br>
+Reactjs, React Native, Deep Learning, Computer Vision, Tensorflow, Arduino, IOT.
 
-Languages : JavaScript, Python, C++, Java, Verilog HDL.
+### Languages : <br>
+JavaScript, Python, C++, Java, Verilog HDL.
 
 <br>
 <hr>
