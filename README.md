@@ -2,13 +2,16 @@
 
 I am Parnab from India, currently an ECE undergrad at MNNIT Allahabad. 
 
+[![Linkedin Badge](https://img.shields.io/badge/-parnabghosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/parnab-ghosh-57326118b/)
+[![Gmail Badge](https://img.shields.io/badge/-parnab0410@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parnab0410@gmail.com)](mailto:parnab0410@gmail.com)
+
+
 ## ⚡ Tools and Technologies
 ![Reactjs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Xilinx ISE](https://img.shields.io/badge/-Xilinx%20ISE-black?style=flat-square&logo=xilinx&logoColor=red)
-![Arduini](https://img.shields.io/badge/-Xilinx%20ISE-white?style=flat-square&logo=arduino)
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
-Reactjs, React Native, Deep Learning, Computer Vision, Tensorflow, Arduino, IOT.
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
 
 ## ⚡ Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -20,6 +23,10 @@ Reactjs, React Native, Deep Learning, Computer Vision, Tensorflow, Arduino, IOT.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+## Skills
+
+Deep Learning, Computer Vision, Digital Design, FPGA development 
 
 <br>
 <hr>
@@ -35,9 +42,3 @@ Reactjs, React Native, Deep Learning, Computer Vision, Tensorflow, Arduino, IOT.
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parnabghosh1004) 
 
-## &nbsp;Connect with Me :
-
-<p align="center">
-<a href="https://www.linkedin.com/in/parnab-ghosh-57326118b/"><img src="https://img.shields.io/badge/-Parnab%20Ghosh%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:parnab0410@gmail.com"><img src="https://img.shields.io/badge/-parnab0410@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
