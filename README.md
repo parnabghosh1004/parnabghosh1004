@@ -2,7 +2,7 @@
 
 I am Parnab from India, currently an ECE undergrad at MNNIT Allahabad. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-parnabghosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/parnab-ghosh-57326118b/)
+[![Linkedin Badge](https://img.shields.io/badge/-parnabghosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)]<a href="https://www.linkedin.com/in/parnab-ghosh-57326118b/" target="_blank"></a>
 [![Gmail Badge](https://img.shields.io/badge/-parnab0410@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parnab0410@gmail.com)](mailto:parnab0410@gmail.com)
 
 
