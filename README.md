@@ -2,8 +2,11 @@
 
 I am Parnab from India, currently an ECE undergrad at MNNIT Allahabad. 
 
-## ⚡ Technologies and Skills
+## ⚡ Tools and Technologies
 ![Reactjs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Xilinx ISE](https://img.shields.io/badge/-Xilinx%20ISE-black?style=flat-square&logo=xilinx&logoColor=red)
+![Arduini](https://img.shields.io/badge/-Xilinx%20ISE-white?style=flat-square&logo=arduino)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 Reactjs, React Native, Deep Learning, Computer Vision, Tensorflow, Arduino, IOT.
 
@@ -14,7 +17,6 @@ Reactjs, React Native, Deep Learning, Computer Vision, Tensorflow, Arduino, IOT.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
