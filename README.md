@@ -15,6 +15,7 @@ I am Parnab from India, currently an ECE undergrad at MNNIT Allahabad.
 
 ## ⚡ Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Verilog](https://img.shields.io/badge/-Verilog-black?style=flat-square&logo=Verilog)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
