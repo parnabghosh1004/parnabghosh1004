@@ -25,7 +25,7 @@ I am Parnab from India, currently an ECE undergrad at MNNIT Allahabad.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-##⚡ Skills
+## ⚡ Skills
 
 Deep Learning, Computer Vision, Digital Design, FPGA development 
 
