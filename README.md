@@ -2,28 +2,28 @@
 
 I am Parnab from India, currently an ECE undergrad at MNNIT Allahabad. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Parnab%20Ghosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parnab-ghosh/)](https://www.linkedin.com/in/parnab-ghosh/)
-[![Gmail Badge](https://img.shields.io/badge/-parnab0410@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parnab0410@gmail.com)](mailto:parnab0410@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/parnab-ghosh/)](https://www.linkedin.com/in/parnab-ghosh/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:parnab0410@gmail.com)](mailto:parnab0410@gmail.com)
 
 
 ## ⚡ Tools and Technologies
-![Reactjs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Xilinx ISE](https://img.shields.io/badge/-Xilinx%20ISE-black?style=flat-square&logo=xilinx&logoColor=red)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
+![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Xilinx ISE](https://img.shields.io/badge/-Xilinx%20ISE-black?style=for-the-badge&logo=xilinx&logoColor=red)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![opencv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ## ⚡ Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Verilog](https://img.shields.io/badge/-Verilog-black?style=flat-square&logo=Verilog)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-black?style=for-the-badge&logo=Verilog)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-489be4?style=for-the-badge&logo=python&logoColor=darkblue)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## ⚡ Skills
 
@@ -40,6 +40,4 @@ Electronics, Web development, Microcontroller programming, Deep learning
 </a>
 <br> 
 <br>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parnabghosh1004) 
 
