@@ -27,7 +27,7 @@ I am Parnab from India, currently an ECE undergrad at MNNIT Allahabad.
 
 ## ⚡ Skills
 
-Deep Learning, Computer Vision, Digital electronics, Web development 
+Electronics, Web development, Microcontroller programming, Deep learning 
 
 <br>
 <hr>
